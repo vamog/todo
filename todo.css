@@ -49,3 +49,9 @@ span{
 :checked + span{
     text-decoration: line-through;
 }
+
+
+.delete {
+    color: red
+}
+  
